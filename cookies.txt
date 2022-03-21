@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+timesofindia.indiatimes.com	TRUE	/	FALSE	1999999999	JSESSIONID	9E47D81E05187E2A300EE873F1C50B86
+
